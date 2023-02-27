@@ -63,7 +63,7 @@ button[type="submit"] {
 }
 
 .captcha-field {
-  display: flex;
+  display: block;
   align-items: center;
   margin-bottom: 10px;
 }
